@@ -1,0 +1,33 @@
+
+.locations {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.location {
+    background-color: aqua;
+    border: 2px solid black;
+    color: black;
+    padding: 0.5rem;
+    margin: 0.7rem;
+}
+
+
+.products {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.product {
+    background-color: aqua;
+    border: 2px solid black;
+    color: black;
+    padding: 0.5rem;
+    margin: 0.7rem;
+}
+
+
